@@ -30,7 +30,7 @@
   }
 
 }
-.centered-main-page-element {
+.main-content {
   display: block;
   width: 500px;
   margin: 0 auto 0;
@@ -40,7 +40,7 @@
   display: inline-block;
   flex-grow: 1
 }
-.task-row-wrapper {
+.add-task-panel {
   display: flex;
 }
 ul {
@@ -94,7 +94,7 @@ button{
 }
 
 /* New Task */
-#topSectionForAddingElementToList .heading {
+#addSection .heading {
   display: block;
   margin: 0 0 20px;
 }
