@@ -116,10 +116,10 @@ button{
   vertical-align: middle;
 }
 
-.list-item > input[type="checkbox"] {
+.list-item > .input-checkbox {
   margin: 0 10px;
 }
-.list-item > label {
+.list-item > .task-name {
   padding-left: 10px;
   box-sizing: border-box;
   font-size: 18px;
